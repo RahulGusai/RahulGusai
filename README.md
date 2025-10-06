@@ -1,10 +1,10 @@
 Hi there. 👋
  
- 🔭 I’m currently working on a product which will allow businesses to offset their carbon emissions.  
- 🌱 I’m currently learning 3D web rendering using ThreeJs and diving into the world of AI agents headfirst.  
- 👯 I’m looking to collaborate on interesting ideas/projects.      
- 💬 Ask me about scaling and maintaining software systems. I am a problem solver by heart. ❤️  
+ 💻 I have been doing freelancing in software engineering from past one and half year. Before that, I worked as a full-time software engineer in product based companies.
+ 🌱 My approach to life and work both is BFS. I love to experience different horizons and expand my perspectives.
+ 🤝 I’m looking to collaborate on exciting ideas and projects — that’s the whole point of freelancing for me!     
+ ❤️ I am a problem solver by heart. It is the primary reason I associate with software engineering.  
  📫 How to reach me:  Reachable via +91-8708157414 🇮🇳 and rgusai97@gmail.com    
- 👨🏽‍💻 Upwork Profile - https://www.upwork.com/freelancers/~01f53878b00c7c898f     
- 💻 Portfolio - https://rahul-gusai.vercel.app/ 
+ 🔗 Upwork Profile - https://www.upwork.com/freelancers/~01f53878b00c7c898f     
+ 🌐 Portfolio - https://rahul-gusai.vercel.app/ 
 
