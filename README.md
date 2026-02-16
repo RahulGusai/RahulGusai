@@ -38,19 +38,11 @@ That’s where I operate.
 
 ## 🚀 Current Projects
 
--  👱🏽‍♂️ **Capila** – AI-powered patient recovery platform (Flutter + FastAPI + Supabase) - https://github.com/yourusername/capila  
+- 👱🏽‍♂️ **[Capila](https://capilahealth.com)** – AI-powered patient recovery platform.
 
-- 🔹 **Lead Intelligence Agent** – Autonomous sourcing, enrichment & outreach system  
-  → https://github.com/yourusername/lead-intelligence-agent  
+- 📄 **[Knowledge Assistant](https://knowledge-assistant.lovable.app)** – Knowledge Assistant helps you understand and query long-form documents with confidence.
 
-- 🔹 **RAG Stack Experiments** – Chunking strategies, embedding benchmarks, retrieval tuning  
-  → https://github.com/yourusername/rag-lab  
-
-- 🔹 **Agent Infrastructure Templates** – Reusable FastAPI-based agent scaffolds  
-  → https://github.com/yourusername/agent-infra  
-
-- 🔹 **CLI Utilities for Builders** – Internal tooling for faster shipping  
-  → https://github.com/yourusername/dev-cli  
+- 💻 **Lead Intelligence Agent** – Autonomous sourcing, enrichment & outreach system 
 
 ---
 
