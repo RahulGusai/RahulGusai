@@ -38,8 +38,7 @@ That’s where I operate.
 
 ## 🚀 Current Projects
 
-- 🔹 **Capila** – AI-powered patient recovery platform (Flutter + FastAPI + Supabase)  
-  → https://github.com/yourusername/capila  
+-  👱🏽‍♂️ **Capila** – AI-powered patient recovery platform (Flutter + FastAPI + Supabase) - https://github.com/yourusername/capila  
 
 - 🔹 **Lead Intelligence Agent** – Autonomous sourcing, enrichment & outreach system  
   → https://github.com/yourusername/lead-intelligence-agent  
