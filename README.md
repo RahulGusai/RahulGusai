@@ -42,7 +42,7 @@ That’s where I operate.
 
 - 📄 **[Knowledge Assistant](https://knowledge-assistant.lovable.app)** – Knowledge Assistant helps you understand and query long-form documents with confidence.
 
-- 💻 **[Outbound Engine]** – Autonomous sourcing, enrichment & outreach system 
+- 💻 **[Outbound Engine](https://outbound-sales-agent.lovable.app)** – Autonomous sourcing, enrichment & outreach system 
 
 ---
 
