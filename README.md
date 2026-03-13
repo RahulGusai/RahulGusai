@@ -47,7 +47,7 @@ That’s where I operate.
 
 - 💻 **[Outbound Engine](https://outbound-sales-agent.lovable.app)** – Autonomous sourcing, enrichment & outreach system
 
-- 💻 **[Brand Pilot](https://ai-brandkit.lovable.app/)** – Autonomous AI marketing system for brand research, strategy, and content generation.
+- 📈 **[Brand Pilot](https://ai-brandkit.lovable.app/)** – Autonomous AI marketing system for brand research, strategy, and content generation.
 
 ---
 
