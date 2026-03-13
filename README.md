@@ -4,6 +4,9 @@
 🧠 AI Agent Engineer · Backend Architect · Systems Thinker  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-AI%20Agents-FF4D4D?style=flat&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -42,7 +45,9 @@ That’s where I operate.
 
 - 📄 **[Knowledge Assistant](https://knowledge-assistant.lovable.app)** – Knowledge Assistant helps you understand and query long-form documents with confidence.
 
-- 💻 **[Outbound Engine](https://outbound-sales-agent.lovable.app)** – Autonomous sourcing, enrichment & outreach system 
+- 💻 **[Outbound Engine](https://outbound-sales-agent.lovable.app)** – Autonomous sourcing, enrichment & outreach system
+
+- 💻 **[Brand Pilot](https://ai-brandkit.lovable.app/)** – Autonomous AI marketing system for brand research, strategy, and content generation.
 
 ---
 
