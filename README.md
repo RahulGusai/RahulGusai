@@ -45,7 +45,8 @@ That’s where I operate.
 
 - 📄 **[Knowledge Assistant](https://knowledge-assistant.lovable.app)** – Knowledge Assistant helps you understand and query long-form documents with confidence.
 
-- 💻 **[Outbound Engine](https://outbound-sales-agent.lovable.app)** – Autonomous sourcing, enrichment & outreach system
+- 💻 **[CrewLine]** – One human. A crew of AI engineers. Zero standups.
+A ticket system, conversational substrate, and agent runtime built so one PM can run an entire engineering team.
 
 - 📈 **[Brand Pilot](https://ai-brandkit.lovable.app/)** – Autonomous AI marketing system for brand research, strategy, and content generation.
 
