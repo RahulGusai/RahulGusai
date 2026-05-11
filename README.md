@@ -41,12 +41,11 @@ That’s where I operate.
 
 ## 🚀 Current Projects
 
+- 💻 **CrewLine** – One human. A crew of AI engineers. Zero standups. A ticket system, conversational substrate, and agent runtime built so one PM can run an entire engineering team.
+  
 - 👱🏽‍♂️ **[Capila](https://capilahealth.com)** – AI-powered patient recovery platform.
 
 - 📄 **[Knowledge Assistant](https://knowledge-assistant.lovable.app)** – Knowledge Assistant helps you understand and query long-form documents with confidence.
-
-- 💻 **[CrewLine]** – One human. A crew of AI engineers. Zero standups.
-A ticket system, conversational substrate, and agent runtime built so one PM can run an entire engineering team.
 
 - 📈 **[Brand Pilot](https://ai-brandkit.lovable.app/)** – Autonomous AI marketing system for brand research, strategy, and content generation.
 
