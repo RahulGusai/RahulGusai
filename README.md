@@ -41,7 +41,7 @@ That’s where I operate.
 
 ## 🚀 Current Projects
 
-- 💻 **[CrewLine](crewline.in)** – One human. A crew of AI engineers. Zero standups. A ticket system, conversational substrate, and agent runtime built so one PM can run an entire engineering team.
+- 💻 **[CrewLine](https://crewline.in)** – One human. A crew of AI engineers. Zero standups. A ticket system, conversational substrate, and agent runtime built so one PM can run an entire engineering team.
   
 - 👱🏽‍♂️ **[Capila](https://capilahealth.com)** – AI-powered patient recovery platform.
 
