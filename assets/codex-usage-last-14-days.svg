@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul's Codex usage over the last two weeks</title>
+  <desc id="desc">Rolling 14-day Codex activity from 17 to 30 July 2026 across all workspaces: 1.113 billion total tokens, 94.6 percent input reuse, 59.52 million fresh input tokens, 4.45 million output tokens, 126 sessions, 9,358 model calls, and 13 active days. The current partial day is included. This graphic is refreshed regularly.</desc>
+
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.25" fill="#30363d" opacity="0.46"/>
+    </pattern>
+    <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="428" rx="24" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="426" rx="23" fill="url(#grid)" opacity="0.42"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="52" y="50" fill="#8b949e" font-size="15" font-weight="600" letter-spacing="2.2">CODEX ENGINEERING ACTIVITY</text>
+
+    <g transform="translate(923 27)">
+      <rect width="225" height="38" rx="19" fill="#161b22" stroke="#30363d"/>
+      <circle cx="21" cy="19" r="5" fill="#39d353" filter="url(#soft-glow)"/>
+      <text x="38" y="24" fill="#c9d1d9" font-size="13" font-weight="600" letter-spacing="1.05">REFRESHED REGULARLY</text>
+    </g>
+
+    <text x="52" y="111" fill="#f0f6fc" font-size="53" font-weight="700" letter-spacing="-1.6">1.113B</text>
+    <text x="247" y="104" fill="#8b949e" font-size="17" font-weight="600" letter-spacing="1.5">TOTAL TOKENS</text>
+    <text x="52" y="140" fill="#c9d1d9" font-size="15" font-weight="500">LAST 2 WEEKS · 17–30 JUL 2026 · ASIA/KOLKATA</text>
+    <text x="1148" y="100" text-anchor="end" fill="#8b949e" font-size="14">Rolling 14-day window</text>
+    <text x="1148" y="124" text-anchor="end" fill="#8b949e" font-size="14">Current partial day included</text>
+    <text x="1148" y="148" text-anchor="end" fill="#8b949e" font-size="14">Last refreshed 30 Jul · 20:30 IST</text>
+
+    <path d="M52 168 H1148" stroke="#21262d"/>
+
+    <g transform="translate(52 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="650">94.6%</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">INPUT REUSE</text>
+    </g>
+    <path d="M244 184 V232" stroke="#30363d"/>
+
+    <g transform="translate(278 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="650">59.52M</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">FRESH INPUT</text>
+    </g>
+    <path d="M469 184 V232" stroke="#30363d"/>
+
+    <g transform="translate(503 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="650">4.45M</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">OUTPUT</text>
+    </g>
+    <path d="M678 184 V232" stroke="#30363d"/>
+
+    <g transform="translate(712 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="650">126</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">SESSIONS</text>
+    </g>
+    <path d="M856 184 V232" stroke="#30363d"/>
+
+    <g transform="translate(890 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="650">9,358</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">MODEL CALLS</text>
+    </g>
+
+    <g aria-hidden="true">
+      <path d="M50 355 C144 366 231 344 318 350 C429 358 522 329 616 337 C723 346 814 315 905 324 C1008 334 1090 309 1146 281" fill="none" stroke="#2f8132" stroke-width="7" stroke-linecap="round"/>
+      <path d="M318 350 C304 327 321 292 309 242" fill="none" stroke="#238636" stroke-width="4" stroke-linecap="round"/>
+      <path d="M756 333 C743 311 760 278 750 226" fill="none" stroke="#238636" stroke-width="4" stroke-linecap="round"/>
+
+      <g stroke="#30363d" stroke-width="2" stroke-linecap="round">
+        <path d="M309 247 H284"/>
+        <path d="M312 264 H337"/>
+        <path d="M308 281 H283"/>
+        <path d="M311 298 H336"/>
+        <path d="M310 315 H285"/>
+        <path d="M314 332 H339"/>
+        <path d="M317 347 H292"/>
+
+        <path d="M750 231 H725"/>
+        <path d="M753 248 H778"/>
+        <path d="M749 265 H724"/>
+        <path d="M752 282 H777"/>
+        <path d="M752 299 H727"/>
+        <path d="M755 316 H780"/>
+        <path d="M756 329 H731"/>
+      </g>
+
+      <g>
+        <rect x="266" y="239" width="18" height="18" rx="4" fill="#39d353"/>
+        <rect x="337" y="256" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="265" y="273" width="18" height="18" rx="4" fill="#006d32"/>
+        <rect x="336" y="290" width="18" height="18" rx="4" fill="#0e4429"/>
+        <rect x="267" y="307" width="18" height="18" rx="4" fill="#161b22" stroke="#30363d"/>
+        <rect x="339" y="324" width="18" height="18" rx="4" fill="#006d32"/>
+        <rect x="274" y="339" width="18" height="18" rx="4" fill="#0e4429"/>
+
+        <rect x="707" y="223" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="778" y="240" width="18" height="18" rx="4" fill="#0e4429"/>
+        <rect x="706" y="257" width="18" height="18" rx="4" fill="#0e4429"/>
+        <rect x="777" y="274" width="18" height="18" rx="4" fill="#006d32"/>
+        <rect x="709" y="291" width="18" height="18" rx="4" fill="#39d353"/>
+        <rect x="780" y="308" width="18" height="18" rx="4" fill="#39d353"/>
+        <rect x="713" y="321" width="18" height="18" rx="4" fill="#26a641"/>
+      </g>
+
+      <circle cx="1146" cy="281" r="9" fill="#0d1117" stroke="#39d353" stroke-width="3"/>
+      <circle cx="1146" cy="281" r="3" fill="#39d353"/>
+    </g>
+
+    <text x="318" y="394" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">WEEK 1 · 17–23 JUL</text>
+    <text x="756" y="379" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">WEEK 2 · 24–30 JUL</text>
+
+    <g transform="translate(894 381)">
+      <text x="0" y="14" fill="#8b949e" font-size="12">LESS</text>
+      <rect x="43" y="1" width="14" height="14" rx="3" fill="#161b22" stroke="#30363d"/>
+      <rect x="64" y="1" width="14" height="14" rx="3" fill="#0e4429"/>
+      <rect x="85" y="1" width="14" height="14" rx="3" fill="#006d32"/>
+      <rect x="106" y="1" width="14" height="14" rx="3" fill="#26a641"/>
+      <rect x="127" y="1" width="14" height="14" rx="3" fill="#39d353"/>
+      <text x="149" y="14" fill="#8b949e" font-size="12">MORE</text>
+    </g>
+
+    <text x="52" y="408" fill="#656d76" font-size="12">Aggregate usage across all Codex workspaces · daily cells show relative activity only</text>
+  </g>
+</svg>
