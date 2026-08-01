@@ -41,7 +41,7 @@ My work sits at the intersection of **agent architecture**, **backend systems**,
 
 - **[Cernora](https://cernora.xyz)**: An AI brand strategist in Slack that maintains a living memory of a company's brand, customers, market, and prior work, then turns that context into grounded recommendations, briefs, plans, and drafts.
 
-- **[Crewline](https://crewline.in)**: An autonomous engineering crew where specialized agents communicate through tickets, handoffs, and QA review, then surface blocking questions to the human conductor only when a decision needs human judgment. From a scoped ticket to a tested, reviewed pull request, the crew works in isolated repository sandboxes.
+- **[Crewline](https://crewline.in)**: A ticket-to-PR workspace where one human directs a crew of specialized AI engineers. The agents communicate with each other, coordinate tickets and handoffs, implement and test changes in isolated repository sandboxes, and review one another's work through dedicated QA. When a blocker needs human judgment, they ask the human directly, then continue toward a reviewable GitHub pull request.
 
 - **[Capila](https://capilahealth.com)**: A clinic-configured hair-transplant recovery platform that turns post-op protocols into personalized timelines, reminders, and always-available AI support for patients.
 
