@@ -49,10 +49,10 @@ My work sits at the intersection of **agent architecture**, **backend systems**,
 
 ## Recent engineering activity
 
-![Rahul's rolling two-week Codex activity: 1.113 billion total tokens across 126 sessions and 9,358 model calls, with 94.6 percent input reuse](./assets/codex-usage-last-14-days.svg)
+![Rahul's rolling two-week Codex engineering activity, automatically refreshed every 12 hours](./assets/codex-usage-last-14-days.svg)
 
 <p align="center">
-  <sub>Rolling 14-day aggregate across all Codex workspaces · refreshed regularly · current partial day included.<br/>Cached input represents reused model context; token volume is not a productivity score.</sub>
+  <sub>Rolling 14-day aggregate across all Codex workspaces · automatically refreshed every 12 hours · current partial day included.<br/>Cached input represents reused model context; token volume is not a productivity score.</sub>
 </p>
 
 ## What I build
