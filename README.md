@@ -37,7 +37,7 @@ After **5 years in backend-heavy product teams** and **1.5+ years working indepe
 
 My work sits at the intersection of **agent architecture**, **backend systems**, and **AI-native product engineering**.
 
-## Products I'm building
+## Products I'm currently building
 
 - **[Cernora](https://cernora.xyz)**: An AI brand strategist in Slack that maintains a living memory of a company's brand, customers, market, and prior work, then turns that context into grounded recommendations, briefs, plans, and drafts.
 
