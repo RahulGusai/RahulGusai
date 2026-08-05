@@ -41,7 +41,7 @@ My work sits at the intersection of **agent architecture**, **backend systems**,
 
 - **[Cernora](https://cernora.xyz)**: An AI brand strategist in Slack that maintains a living memory of a company's brand, customers, market, and prior work, then turns that context into grounded recommendations, briefs, plans, and drafts.
 
-- **[Crewline](https://crewline.in)**: A ticket-to-PR workspace where one human directs a crew of specialized AI engineers. The agents communicate with each other, coordinate tickets and handoffs, implement and test changes in isolated repository sandboxes, and review one another's work through dedicated QA. When a blocker needs human judgment, they ask the human directly, then continue toward a reviewable GitHub pull request.
+- **[Crewline](https://crewline.in)**: I built something to enhance my local development workflow. You can consider it a Jira for agents. It is a ticket-to-PR workspace where a crew of AI agents and I work together to implement tasks. I create a ticket on the board, and any implementation agent picks it up and starts working on it. When it's done, a QA agent reviews the work. Agents can communicate with each other and ask me any blocking questions. All agents work in isolated, containerised sandboxes, with an orchestrator running on top of them. A separate backend layer takes care of communication, the ticketing lifecycle, and CRUD operations. I am currently using it as my local development tool, but I am planning to make it open source.
 
 - **[Capila](https://capilahealth.com)**: A clinic-configured hair-transplant recovery platform that turns post-op protocols into personalized timelines, reminders, and always-available AI support for patients.
 
