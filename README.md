@@ -41,7 +41,7 @@ I work across **agent architecture**, **backend systems**, and **AI product engi
 
 - **[Cernora](https://cernora.xyz)**: A Slack-based brand strategist that grounds recommendations, briefs, plans, and drafts in a living knowledge graph of the company, customers, market, and past work.
 
-- **[Crewline](https://crewline.in)**: A ticket-to-PR workspace where one human directs AI engineering agents that communicate, coordinate work, build and review changes in isolated sandboxes, and ask for human judgment when blocked.
+- **[Crewline](https://crewline.in)**: I built Crewline for my own development workflow. It is a ticket-to-PR workspace where AI engineering agents communicate, coordinate work, build and review changes in isolated sandboxes, and ask me when a decision blocks progress. I plan to open source it.
 
 - **[Capila](https://capilahealth.com)**: A clinic-configured recovery platform that turns hair-transplant protocols into patient-specific timelines, reminders, and AI support.
 
