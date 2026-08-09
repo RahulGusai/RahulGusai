@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I design and ship production AI systems: autonomous agents, grounded retrieval, and backend infrastructure that stays reliable beyond the demo.
+  I build production AI systems: multi-agent workflows, grounded retrieval, and backend infrastructure that teams can operate and debug.
 </p>
 
 <p align="center">
@@ -33,42 +33,42 @@
 
 ## The systems behind production AI
 
-After **5 years in backend-heavy product teams** and **1.5+ years working independently**, I focus on the engineering layer that makes AI useful in production: state, orchestration, tool execution, asynchronous workflows, observability, and guardrails.
+After **5 years in backend-heavy product teams** and **2+ years working independently**, I focus on the systems around the model: state, orchestration, tool execution, async workflows, observability, and guardrails.
 
-My work sits at the intersection of **agent architecture**, **backend systems**, and **AI-native product engineering**.
+I work across **agent architecture**, **backend systems**, and **AI product engineering**.
 
-## Products I'm currently building
+## Products I'm building
 
-- **[Cernora](https://cernora.xyz)**: An AI brand strategist in Slack that maintains a living memory of a company's brand, customers, market, and prior work, then turns that context into grounded recommendations, briefs, plans, and drafts.
+- **[Cernora](https://cernora.xyz)**: A Slack-based brand strategist that grounds recommendations, briefs, plans, and drafts in a living knowledge graph of the company, customers, market, and past work.
 
-- **[Crewline](https://crewline.in)**: I built something to enhance my local development workflow. You can consider it a Jira for agents. It is a ticket-to-PR workspace where a crew of AI agents and I work together to implement tasks. I create a ticket on the board, and any implementation agent picks it up and starts working on it. When it's done, a QA agent reviews the work. Agents can communicate with each other and ask me any blocking questions. All agents work in isolated, containerised sandboxes, with an orchestrator running on top of them. A separate backend layer takes care of communication, the ticketing lifecycle, and CRUD operations. I am currently using it as my local development tool, but I am planning to make it open source.
+- **[Crewline](https://crewline.in)**: A ticket-to-PR workspace where one human directs AI engineering agents that communicate, coordinate work, build and review changes in isolated sandboxes, and ask for human judgment when blocked.
 
-- **[Capila](https://capilahealth.com)**: A clinic-configured hair-transplant recovery platform that turns post-op protocols into personalized timelines, reminders, and always-available AI support for patients.
+- **[Capila](https://capilahealth.com)**: A clinic-configured recovery platform that turns hair-transplant protocols into patient-specific timelines, reminders, and AI support.
 
-- **[Knowledge Assistant](https://knowledge-assistant.lovable.app)**: A RAG assistant for long-form documents that retrieves relevant passages and returns source-grounded answers with citations.
+- **[Knowledge Assistant](https://knowledge-assistant.lovable.app)**: A RAG assistant for long documents that retrieves relevant passages and answers with citations.
 
 ## Recent engineering activity
 
 ![Rahul's rolling two-week Codex engineering activity, automatically refreshed every 12 hours](./assets/codex-usage-last-14-days.svg)
 
 <p align="center">
-  <sub>Rolling 14-day aggregate across all Codex workspaces · automatically refreshed every 12 hours · current partial day included.<br/>Cached input represents reused model context; token volume is not a productivity score.</sub>
+  <sub>Rolling 14-day aggregate across all Codex workspaces · refreshed every 12 hours · current partial day included.<br/>Cached input is reused model context. Token volume is not a productivity score.</sub>
 </p>
 
 ## What I build
 
-- Multi-agent runtimes, orchestration, and reliable tool execution
+- Multi-agent runtimes, orchestration, and tool execution
 - Retrieval, memory, and knowledge systems
-- Event-driven backends, asynchronous workflows, and clean data models
-- Evaluation, observability, guardrails, and human-in-the-loop controls
-- AI-native SaaS designed to move beyond prototype scale
+- Event-driven backends, async workflows, and data modeling
+- Evals, observability, guardrails, and human-in-the-loop controls
+- AI products that teams can operate, debug, and improve in production
 
 ## How I think about agents
 
-> The model is one component. Production agents need deterministic workflows, durable state, observable execution, scoped tools, and explicit human control.
+> A model is one part of an agent system. The rest is workflow logic, durable state, observable execution, scoped tools, and clear points for human judgment.
 
 ## Work with me
 
-I help teams turn AI prototypes into dependable products, especially agent platforms, retrieval systems, workflow automation, and backend-heavy AI SaaS.
+I work with teams building agent platforms, retrieval systems, workflow automation, and backend-heavy AI products, from architecture through production rollout.
 
 **[Connect on LinkedIn](https://www.linkedin.com/in/rahulgusai/)**
