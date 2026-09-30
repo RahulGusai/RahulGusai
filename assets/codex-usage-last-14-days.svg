@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="476" viewBox="0 0 1200 476" role="img" aria-labelledby="title desc">
   <title id="title">Rahul's Codex engineering activity over the rolling last two weeks</title>
-  <desc id="desc">Rolling 14-day Codex activity across all workspaces from 16 Sept to 29 Sept 2026: 690.20M total tokens, 95.9 percent input reuse, 27.9M fresh input tokens, 2.43M output tokens, 177 sessions, 5,941 model calls, and 14 active days. The current partial day is included. This graphic refreshes automatically every 12 hours; last sync 29 Sept 2026 17:31 IST.</desc>
+  <desc id="desc">Rolling 14-day Codex activity across all workspaces from 17 Sept to 30 Sept 2026: 641.96M total tokens, 96.2 percent input reuse, 24.39M fresh input tokens, 2.17M output tokens, 156 sessions, 5,420 model calls, and 14 active days. The current partial day is included. This graphic refreshes automatically every 12 hours; last sync 30 Sept 2026 17:36 IST.</desc>
 
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
@@ -31,37 +31,37 @@
       <text x="43" y="24" fill="#c9d1d9" font-size="13" font-weight="600" letter-spacing="0.85">AUTO-REFRESH · 12H</text>
     </g>
 
-    <text x="52" y="112" fill="#f0f6fc" font-size="50" font-weight="700" letter-spacing="-1.6">690.20M</text>
+    <text x="52" y="112" fill="#f0f6fc" font-size="50" font-weight="700" letter-spacing="-1.6">641.96M</text>
     <text x="248" y="104" fill="#8b949e" font-size="16" font-weight="600" letter-spacing="1.35">TOTAL TOKENS</text>
-    <text x="52" y="140" fill="#c9d1d9" font-size="14" font-weight="600" letter-spacing="0.7">ROLLING 14 DAYS · 16 SEPT TO 29 SEPT 2026 · ASIA/KOLKATA</text>
+    <text x="52" y="140" fill="#c9d1d9" font-size="14" font-weight="600" letter-spacing="0.7">ROLLING 14 DAYS · 17 SEPT TO 30 SEPT 2026 · ASIA/KOLKATA</text>
     <text x="1148" y="100" text-anchor="end" fill="#8b949e" font-size="13">Rolling 14-day window</text>
     <text x="1148" y="124" text-anchor="end" fill="#8b949e" font-size="13">Current partial day included</text>
-    <text x="1148" y="148" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="600">LAST SYNC · 29 SEPT 2026 · 17:31 IST</text>
+    <text x="1148" y="148" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="600">LAST SYNC · 30 SEPT 2026 · 17:36 IST</text>
 
     <path d="M52 168 H1148" stroke="#21262d"/>
 
     <g transform="translate(52 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">95.9%</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">96.2%</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">INPUT REUSE</text>
     </g>
     <path d="M244 184 V232" stroke="#30363d"/>
     <g transform="translate(278 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">27.9M</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">24.39M</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">FRESH INPUT</text>
     </g>
     <path d="M470 184 V232" stroke="#30363d"/>
     <g transform="translate(504 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">2.43M</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">2.17M</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">OUTPUT</text>
     </g>
     <path d="M686 184 V232" stroke="#30363d"/>
     <g transform="translate(720 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">177</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">156</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">SESSIONS</text>
     </g>
     <path d="M866 184 V232" stroke="#30363d"/>
     <g transform="translate(900 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">5,941</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">5,420</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">MODEL CALLS</text>
     </g>
 
@@ -88,60 +88,60 @@
       </g>
 
       <g>
-        <title>16 Sept 2026 · 95.41M total tokens</title>
+        <title>17 Sept 2026 · 100.35M total tokens</title>
         <rect x="266" y="269" width="18" height="18" rx="4" fill="#39d353"/>
       </g>
       <g>
-        <title>17 Sept 2026 · 100.35M total tokens</title>
-        <rect x="337" y="286" width="18" height="18" rx="4" fill="#39d353"/>
-      </g>
-      <g>
         <title>18 Sept 2026 · 26.11M total tokens</title>
-        <rect x="265" y="303" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="337" y="286" width="18" height="18" rx="4" fill="#26a641"/>
       </g>
       <g>
         <title>19 Sept 2026 · 58.3M total tokens</title>
-        <rect x="336" y="320" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="265" y="303" width="18" height="18" rx="4" fill="#39d353"/>
       </g>
       <g>
         <title>20 Sept 2026 · 5.53M total tokens</title>
-        <rect x="267" y="337" width="18" height="18" rx="4" fill="#006d32"/>
+        <rect x="336" y="320" width="18" height="18" rx="4" fill="#26a641"/>
       </g>
       <g>
         <title>21 Sept 2026 · 32.55M total tokens</title>
-        <rect x="339" y="354" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="267" y="337" width="18" height="18" rx="4" fill="#26a641"/>
       </g>
       <g>
         <title>22 Sept 2026 · 1.16M total tokens</title>
-        <rect x="274" y="369" width="18" height="18" rx="4" fill="#0e4429"/>
+        <rect x="339" y="354" width="18" height="18" rx="4" fill="#006d32"/>
       </g>
       <g>
         <title>23 Sept 2026 · 731.2K total tokens</title>
-        <rect x="707" y="253" width="18" height="18" rx="4" fill="#0e4429"/>
+        <rect x="274" y="369" width="18" height="18" rx="4" fill="#006d32"/>
       </g>
       <g>
         <title>24 Sept 2026 · 1.03M total tokens</title>
-        <rect x="778" y="270" width="18" height="18" rx="4" fill="#0e4429"/>
+        <rect x="707" y="253" width="18" height="18" rx="4" fill="#006d32"/>
       </g>
       <g>
         <title>25 Sept 2026 · 46.46M total tokens</title>
-        <rect x="706" y="287" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="778" y="270" width="18" height="18" rx="4" fill="#39d353"/>
       </g>
       <g>
         <title>26 Sept 2026 · 46.08M total tokens</title>
-        <rect x="777" y="304" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="706" y="287" width="18" height="18" rx="4" fill="#39d353"/>
       </g>
       <g>
         <title>27 Sept 2026 · 23.61M total tokens</title>
-        <rect x="709" y="321" width="18" height="18" rx="4" fill="#26a641"/>
+        <rect x="777" y="304" width="18" height="18" rx="4" fill="#26a641"/>
       </g>
       <g>
-        <title>28 Sept 2026 · 141.19M total tokens</title>
+        <title>28 Sept 2026 · 132.02M total tokens</title>
+        <rect x="709" y="321" width="18" height="18" rx="4" fill="#39d353"/>
+      </g>
+      <g>
+        <title>29 Sept 2026 · 168M total tokens</title>
         <rect x="780" y="338" width="18" height="18" rx="4" fill="#39d353"/>
       </g>
       <g>
-        <title>29 Sept 2026 · 111.7M total tokens</title>
-        <rect x="713" y="351" width="18" height="18" rx="4" fill="#39d353"/>
+        <title>30 Sept 2026 · 36K total tokens</title>
+        <rect x="713" y="351" width="18" height="18" rx="4" fill="#0e4429"/>
       </g>
 
       <circle cx="1146" cy="311" r="12" fill="#39d353" opacity="0.08" filter="url(#live-status-glow)"/>
@@ -149,8 +149,8 @@
       <circle cx="1146" cy="311" r="3" fill="#39d353" filter="url(#live-status-glow)"/>
     </g>
 
-    <text x="318" y="424" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="0.8">WEEK 1 · 16 SEPT TO 22 SEPT</text>
-    <text x="756" y="409" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="0.8">WEEK 2 · 23 SEPT TO 29 SEPT</text>
+    <text x="318" y="424" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="0.8">WEEK 1 · 17 SEPT TO 23 SEPT</text>
+    <text x="756" y="409" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="0.8">WEEK 2 · 24 SEPT TO 30 SEPT</text>
 
     <g transform="translate(894 411)">
       <text x="0" y="14" fill="#8b949e" font-size="12">LESS</text>
