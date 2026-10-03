@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="476" viewBox="0 0 1200 476" role="img" aria-labelledby="title desc">
   <title id="title">Rahul's Codex engineering activity over the rolling last two weeks</title>
-  <desc id="desc">Rolling 14-day Codex activity across all workspaces from 20 Sept to 03 Oct 2026: 733.60M total tokens, 97.0 percent input reuse, 21.95M fresh input tokens, 1.98M output tokens, 137 sessions, 5,952 model calls, and 14 active days. The current partial day is included. This graphic refreshes automatically every 12 hours; last sync 03 Oct 2026 14:22 IST.</desc>
+  <desc id="desc">Rolling 14-day Codex activity across all workspaces from 20 Sept to 03 Oct 2026: 734.08M total tokens, 97.0 percent input reuse, 22M fresh input tokens, 1.98M output tokens, 139 sessions, 5,963 model calls, and 14 active days. The current partial day is included. This graphic refreshes automatically every 12 hours; last sync 03 Oct 2026 17:31 IST.</desc>
 
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
@@ -31,12 +31,12 @@
       <text x="43" y="24" fill="#c9d1d9" font-size="13" font-weight="600" letter-spacing="0.85">AUTO-REFRESH · 12H</text>
     </g>
 
-    <text x="52" y="112" fill="#f0f6fc" font-size="50" font-weight="700" letter-spacing="-1.6">733.60M</text>
+    <text x="52" y="112" fill="#f0f6fc" font-size="50" font-weight="700" letter-spacing="-1.6">734.08M</text>
     <text x="248" y="104" fill="#8b949e" font-size="16" font-weight="600" letter-spacing="1.35">TOTAL TOKENS</text>
     <text x="52" y="140" fill="#c9d1d9" font-size="14" font-weight="600" letter-spacing="0.7">ROLLING 14 DAYS · 20 SEPT TO 03 OCT 2026 · ASIA/KOLKATA</text>
     <text x="1148" y="100" text-anchor="end" fill="#8b949e" font-size="13">Rolling 14-day window</text>
     <text x="1148" y="124" text-anchor="end" fill="#8b949e" font-size="13">Current partial day included</text>
-    <text x="1148" y="148" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="600">LAST SYNC · 03 OCT 2026 · 14:22 IST</text>
+    <text x="1148" y="148" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="600">LAST SYNC · 03 OCT 2026 · 17:31 IST</text>
 
     <path d="M52 168 H1148" stroke="#21262d"/>
 
@@ -46,7 +46,7 @@
     </g>
     <path d="M244 184 V232" stroke="#30363d"/>
     <g transform="translate(278 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">21.95M</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">22M</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">FRESH INPUT</text>
     </g>
     <path d="M470 184 V232" stroke="#30363d"/>
@@ -56,12 +56,12 @@
     </g>
     <path d="M686 184 V232" stroke="#30363d"/>
     <g transform="translate(720 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">137</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">139</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">SESSIONS</text>
     </g>
     <path d="M866 184 V232" stroke="#30363d"/>
     <g transform="translate(900 187)">
-      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">5,952</text>
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">5,963</text>
       <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">MODEL CALLS</text>
     </g>
 
@@ -140,7 +140,7 @@
         <rect x="780" y="338" width="18" height="18" rx="4" fill="#39d353"/>
       </g>
       <g>
-        <title>03 Oct 2026 · 8.13M total tokens</title>
+        <title>03 Oct 2026 · 8.62M total tokens</title>
         <rect x="713" y="351" width="18" height="18" rx="4" fill="#006d32"/>
       </g>
 
