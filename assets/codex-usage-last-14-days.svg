@@ -1,1 +1,167 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjQ3NiIgdmlld0JveD0iMCAwIDEyMDAgNDc2IiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idGl0bGUgZGVzYyI+CiAgPHRpdGxlIGlkPSJ0aXRsZSI+UmFodWwncyBDb2RleCBlbmdpbmVlcmluZyBhY3Rpdml0eSBvdmVyIHRoZSByb2xsaW5nIGxhc3QgdHdvIHdlZWtzPC90aXRsZT4KICA8ZGVzYyBpZD0iZGVzYyI+Um9sbGluZyAxNC1kYXkgQ29kZXggYWN0aXZpdHkgYWNyb3NzIGFsbCB3b3Jrc3BhY2VzIGZyb20gMjQgT2N0IHRvIDA2IE5vdiAyMDI2OiAxNTQuNDlNIHRvdGFsIHRva2VucywgOTYuMyBwZXJjZW50IGlucHV0IHJldXNlLCA1LjY5TSBmcmVzaCBpbnB1dCB0b2tlbnMsIDQxNS45SyBvdXRwdXQgdG9rZW5zLCA3NSBzZXNzaW9ucywgMSw0MDYgbW9kZWwgY2FsbHMsIGFuZCAxMyBhY3RpdmUgZGF5cy4gVGhlIGN1cnJlbnQgcGFydGlhbCBkYXkgaXMgaW5jbHVkZWQuIFRoaXMgZ3JhcGhpYyByZWZyZXNoZXMgYXV0b21hdGljYWxseSBldmVyeSAxMiBob3VyczsgbGFzdCBzeW5jIDA2IE5vdiAyMDI2IDE2OjA2IElTVC48L2Rlc2M+CgogIDxkZWZzPgogICAgPHBhdHRlcm4gaWQ9ImdyaWQiIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxjaXJjbGUgY3g9IjEuNSIgY3k9IjEuNSIgcj0iMS4yNSIgZmlsbD0iIzMwMzYzZCIgb3BhY2l0eT0iMC40NiIvPgogICAgPC9wYXR0ZXJuPgogICAgPGZpbHRlciBpZD0ibGl2ZS1zdGF0dXMtZ2xvdyIgeD0iLTE4MCUiIHk9Ii0xODAlIiB3aWR0aD0iNDYwJSIgaGVpZ2h0PSI0NjAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIGluPSJTb3VyY2VHcmFwaGljIiBzdGREZXZpYXRpb249IjQuNSIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjMzlkMzUzIiBmbG9vZC1vcGFjaXR5PSIwLjkiIHJlc3VsdD0iZ2xvdy1jb2xvciIvPgogICAgICA8ZmVDb21wb3NpdGUgaW49Imdsb3ctY29sb3IiIGluMj0iYmx1ciIgb3BlcmF0b3I9ImluIiByZXN1bHQ9ImNvbG9yZWQtZ2xvdyIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImNvbG9yZWQtZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxMTk4IiBoZWlnaHQ9IjQ3NCIgcng9IjI0IiBmaWxsPSIjMGQxMTE3IiBzdHJva2U9IiMzMDM2M2QiIHN0cm9rZS13aWR0aD0iMiIvPgogIDxyZWN0IHg9IjIiIHk9IjIiIHdpZHRoPSIxMTk2IiBoZWlnaHQ9IjQ3MiIgcng9IjIzIiBmaWxsPSJ1cmwoI2dyaWQpIiBvcGFjaXR5PSIwLjQyIi8+CgogIDxnIGZvbnQtZmFtaWx5PSJ1aS1tb25vc3BhY2UsIFNGTW9uby1SZWd1bGFyLCAnQ2FzY2FkaWEgQ29kZScsICdSb2JvdG8gTW9ubycsIE1lbmxvLCBNb25hY28sIENvbnNvbGFzLCAnTGliZXJhdGlvbiBNb25vJywgbW9ub3NwYWNlIiBmb250LXZhcmlhbnQtbnVtZXJpYz0idGFidWxhci1udW1zIj4KICAgIDx0ZXh0IHg9IjUyIiB5PSI1MCIgZmlsbD0iIzhiOTQ5ZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9IjYwMCIgbGV0dGVyLXNwYWNpbmc9IjEuNyI+Q09ERVggLyBFTkdJTkVFUklORyBBQ1RJVklUWTwvdGV4dD4KCiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5MDggMjcpIj4KICAgICAgPHJlY3Qgd2lkdGg9IjI0MCIgaGVpZ2h0PSIzOCIgcng9IjE5IiBmaWxsPSIjMTYxYjIyIiBzdHJva2U9IiMzMDM2M2QiLz4KICAgICAgPGNpcmNsZSBjeD0iMjMiIGN5PSIxOSIgcj0iMTUiIGZpbGw9IiMzOWQzNTMiIG9wYWNpdHk9IjAuMDciLz4KICAgICAgPGNpcmNsZSBjeD0iMjMiIGN5PSIxOSIgcj0iOSIgZmlsbD0iIzM5ZDM1MyIgb3BhY2l0eT0iMC4xNiIgZmlsdGVyPSJ1cmwoI2xpdmUtc3RhdHVzLWdsb3cpIi8+CiAgICAgIDxjaXJjbGUgY3g9IjIzIiBjeT0iMTkiIHI9IjQuNSIgZmlsbD0iIzM5ZDM1MyIgZmlsdGVyPSJ1cmwoI2xpdmUtc3RhdHVzLWdsb3cpIi8+CiAgICAgIDx0ZXh0IHg9IjQzIiB5PSIyNCIgZmlsbD0iI2M5ZDFkOSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjYwMCIgbGV0dGVyLXNwYWNpbmc9IjAuODUiPkFVVE8tUkVGUkVTSCDCtyAxMkg8L3RleHQ+CiAgICA8L2c+CgogICAgPHRleHQgeD0iNTIiIHk9IjExMiIgZmlsbD0iI2YwZjZmYyIgZm9udC1zaXplPSI1MCIgZm9udC13ZWlnaHQ9IjcwMCIgbGV0dGVyLXNwYWNpbmc9Ii0xLjYiPjE1NC40OU08L3RleHQ+CiAgICA8dGV4dCB4PSIyNDgiIHk9IjEwNCIgZmlsbD0iIzhiOTQ5ZSIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9IjYwMCIgbGV0dGVyLXNwYWNpbmc9IjEuMzUiPlRPVEFMIFRPS0VOUzwvdGV4dD4KICAgIDx0ZXh0IHg9IjUyIiB5PSIxNDAiIGZpbGw9IiNjOWQxZDkiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIwLjciPlJPTExJTkcgMTQgREFZUyDCtyAyNCBPQ1QgVE8gMDYgTk9WIDIwMjYgwrcgQVNJQS9LT0xLQVRBPC90ZXh0PgogICAgPHRleHQgeD0iMTE0OCIgeT0iMTAwIiB0ZXh0LWFuY2hvcj0iZW5kIiBmaWxsPSIjOGI5NDllIiBmb250LXNpemU9IjEzIj5Sb2xsaW5nIDE0LWRheSB3aW5kb3c8L3RleHQ+CiAgICA8dGV4dCB4PSIxMTQ4IiB5PSIxMjQiIHRleHQtYW5jaG9yPSJlbmQiIGZpbGw9IiM4Yjk0OWUiIGZvbnQtc2l6ZT0iMTMiPkN1cnJlbnQgcGFydGlhbCBkYXkgaW5jbHVkZWQ8L3RleHQ+CiAgICA8dGV4dCB4PSIxMTQ4IiB5PSIxNDgiIHRleHQtYW5jaG9yPSJlbmQiIGZpbGw9IiNjOWQxZDkiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiPkxBU1QgU1lOQyDCtyAwNiBOT1YgMjAyNiDCtyAxNjowNiBJU1Q8L3RleHQ+CgogICAgPHBhdGggZD0iTTUyIDE2OCBIMTE0OCIgc3Ryb2tlPSIjMjEyNjJkIi8+CgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTIgMTg3KSI+CiAgICAgIDx0ZXh0IHk9IjIwIiBmaWxsPSIjZjBmNmZjIiBmb250LXNpemU9IjIxIiBmb250LXdlaWdodD0iNzAwIj45Ni4zJTwvdGV4dD4KICAgICAgPHRleHQgeT0iNDMiIGZpbGw9IiM4Yjk0OWUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIxIj5JTlBVVCBSRVVTRTwvdGV4dD4KICAgIDwvZz4KICAgIDxwYXRoIGQ9Ik0yNDQgMTg0IFYyMzIiIHN0cm9rZT0iIzMwMzYzZCIvPgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjc4IDE4NykiPgogICAgICA8dGV4dCB5PSIyMCIgZmlsbD0iI2YwZjZmYyIgZm9udC1zaXplPSIyMSIgZm9udC13ZWlnaHQ9IjcwMCI+NS42OU08L3RleHQ+CiAgICAgIDx0ZXh0IHk9IjQzIiBmaWxsPSIjOGI5NDllIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNjAwIiBsZXR0ZXItc3BhY2luZz0iMSI+RlJFU0ggSU5QVVQ8L3RleHQ+CiAgICA8L2c+CiAgICA8cGF0aCBkPSJNNDcwIDE4NCBWMjMyIiBzdHJva2U9IiMzMDM2M2QiLz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDUwNCAxODcpIj4KICAgICAgPHRleHQgeT0iMjAiIGZpbGw9IiNmMGY2ZmMiIGZvbnQtc2l6ZT0iMjEiIGZvbnQtd2VpZ2h0PSI3MDAiPjQxNS45SzwvdGV4dD4KICAgICAgPHRleHQgeT0iNDMiIGZpbGw9IiM4Yjk0OWUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIxIj5PVVRQVVQ8L3RleHQ+CiAgICA8L2c+CiAgICA8cGF0aCBkPSJNNjg2IDE4NCBWMjMyIiBzdHJva2U9IiMzMDM2M2QiLz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDcyMCAxODcpIj4KICAgICAgPHRleHQgeT0iMjAiIGZpbGw9IiNmMGY2ZmMiIGZvbnQtc2l6ZT0iMjEiIGZvbnQtd2VpZ2h0PSI3MDAiPjc1PC90ZXh0PgogICAgICA8dGV4dCB5PSI0MyIgZmlsbD0iIzhiOTQ5ZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjYwMCIgbGV0dGVyLXNwYWNpbmc9IjEiPlNFU1NJT05TPC90ZXh0PgogICAgPC9nPgogICAgPHBhdGggZD0iTTg2NiAxODQgVjIzMiIgc3Ryb2tlPSIjMzAzNjNkIi8+CiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5MDAgMTg3KSI+CiAgICAgIDx0ZXh0IHk9IjIwIiBmaWxsPSIjZjBmNmZjIiBmb250LXNpemU9IjIxIiBmb250LXdlaWdodD0iNzAwIj4xLDQwNjwvdGV4dD4KICAgICAgPHRleHQgeT0iNDMiIGZpbGw9IiM4Yjk0OWUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIxIj5NT0RFTCBDQUxMUzwvdGV4dD4KICAgIDwvZz4KCiAgICA8ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCA4KSI+CiAgICAgIDxwYXRoIGQ9Ik01MCAzODUgQzE0NCAzOTYgMjMxIDM3NCAzMTggMzgwIEM0MjkgMzg4IDUyMiAzNTkgNjE2IDM2NyBDNzIzIDM3NiA4MTQgMzQ1IDkwNSAzNTQgQzEwMDggMzY0IDEwOTAgMzM5IDExNDYgMzExIiBmaWxsPSJub25lIiBzdHJva2U9IiMyZjgxMzIiIHN0cm9rZS13aWR0aD0iNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICAgIDxwYXRoIGQ9Ik0zMTggMzgwIEMzMDQgMzU3IDMyMSAzMjIgMzA5IDI3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjM4NjM2IiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgICA8cGF0aCBkPSJNNzU2IDM2MyBDNzQzIDM0MSA3NjAgMzA4IDc1MCAyNTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIzODYzNiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KCiAgICAgIDxnIHN0cm9rZT0iIzMwMzYzZCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPgogICAgICAgIDxwYXRoIGQ9Ik0zMDkgMjc3IEgyODQiLz4KICAgICAgICA8cGF0aCBkPSJNMzEyIDI5NCBIMzM3Ii8+CiAgICAgICAgPHBhdGggZD0iTTMwOCAzMTEgSDI4MyIvPgogICAgICAgIDxwYXRoIGQ9Ik0zMTEgMzI4IEgzMzYiLz4KICAgICAgICA8cGF0aCBkPSJNMzEwIDM0NSBIMjg1Ii8+CiAgICAgICAgPHBhdGggZD0iTTMxNCAzNjIgSDMzOSIvPgogICAgICAgIDxwYXRoIGQ9Ik0zMTcgMzc3IEgyOTIiLz4KICAgICAgICA8cGF0aCBkPSJNNzUwIDI2MSBINzI1Ii8+CiAgICAgICAgPHBhdGggZD0iTTc1MyAyNzggSDc3OCIvPgogICAgICAgIDxwYXRoIGQ9Ik03NDkgMjk1IEg3MjQiLz4KICAgICAgICA8cGF0aCBkPSJNNzUyIDMxMiBINzc3Ii8+CiAgICAgICAgPHBhdGggZD0iTTc1MiAzMjkgSDcyNyIvPgogICAgICAgIDxwYXRoIGQ9Ik03NTUgMzQ2IEg3ODAiLz4KICAgICAgICA8cGF0aCBkPSJNNzU2IDM1OSBINzMxIi8+CiAgICAgIDwvZz4KCiAgICAgIDxnPgogICAgICAgIDx0aXRsZT4yNCBPY3QgMjAyNiDCtyAwIHRvdGFsIHRva2VuczwvdGl0bGU+CiAgICAgICAgPHJlY3QgeD0iMjY2IiB5PSIyNjkiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjQiIGZpbGw9IiMxNjFiMjIiIHN0cm9rZT0iIzMwMzYzZCIvPgogICAgICA8L2c+CiAgICAgIDxnPgogICAgICAgIDx0aXRsZT4yNSBPY3QgMjAyNiDCtyAxLjMxTSB0b3RhbCB0b2tlbnM8L3RpdGxlPgogICAgICAgIDxyZWN0IHg9IjMzNyIgeT0iMjg2IiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjMDA2ZDMyIi8+CiAgICAgIDwvZz4KICAgICAgPGc+CiAgICAgICAgPHRpdGxlPjI2IE9jdCAyMDI2IMK3IDEuMjVNIHRvdGFsIHRva2VuczwvdGl0bGU+CiAgICAgICAgPHJlY3QgeD0iMjY1IiB5PSIzMDMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjQiIGZpbGw9IiMwMDZkMzIiLz4KICAgICAgPC9nPgogICAgICA8Zz4KICAgICAgICA8dGl0bGU+MjcgT2N0IDIwMjYgwrcgNTMxLjZLIHRvdGFsIHRva2VuczwvdGl0bGU+CiAgICAgICAgPHJlY3QgeD0iMzM2IiB5PSIzMjAiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjQiIGZpbGw9IiMwZTQ0MjkiLz4KICAgICAgPC9nPgogICAgICA8Zz4KICAgICAgICA8dGl0bGU+MjggT2N0IDIwMjYgwrcgMi4zMU0gdG90YWwgdG9rZW5zPC90aXRsZT4KICAgICAgICA8cmVjdCB4PSIyNjciIHk9IjMzNyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0iIzAwNmQzMiIvPgogICAgICA8L2c+CiAgICAgIDxnPgogICAgICAgIDx0aXRsZT4yOSBPY3QgMjAyNiDCtyAxLjE2TSB0b3RhbCB0b2tlbnM8L3RpdGxlPgogICAgICAgIDxyZWN0IHg9IjMzOSIgeT0iMzU0IiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjMGU0NDI5Ii8+CiAgICAgIDwvZz4KICAgICAgPGc+CiAgICAgICAgPHRpdGxlPjMwIE9jdCAyMDI2IMK3IDE3LjA4TSB0b3RhbCB0b2tlbnM8L3RpdGxlPgogICAgICAgIDxyZWN0IHg9IjI3NCIgeT0iMzY5IiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjMjZhNjQxIi8+CiAgICAgIDwvZz4KICAgICAgPGc+CiAgICAgICAgPHRpdGxlPjMxIE9jdCAyMDI2IMK3IDU5LjQyTSB0b3RhbCB0b2tlbnM8L3RpdGxlPgogICAgICAgIDxyZWN0IHg9IjcwNyIgeT0iMjUzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjMzlkMzUzIi8+CiAgICAgIDwvZz4KICAgICAgPGc+CiAgICAgICAgPHRpdGxlPjAxIE5vdiAyMDI2IMK3IDE2LjRNIHRvdGFsIHRva2VuczwvdGl0bGU+CiAgICAgICAgPHJlY3QgeD0iNzc4IiB5PSIyNzAiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjQiIGZpbGw9IiMyNmE2NDEiLz4KICAgICAgPC9nPgogICAgICA8Zz4KICAgICAgICA8dGl0bGU+MDIgTm92IDIwMjYgwrcgMS4wMk0gdG90YWwgdG9rZW5zPC90aXRsZT4KICAgICAgICA8cmVjdCB4PSI3MDYiIHk9IjI4NyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0iIzBlNDQyOSIvPgogICAgICA8L2c+CiAgICAgIDxnPgogICAgICAgIDx0aXRsZT4wMyBOb3YgMjAyNiDCtyAyOC4wMk0gdG90YWwgdG9rZW5zPC90aXRsZT4KICAgICAgICA8cmVjdCB4PSI3NzciIHk9IjMwNCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0iIzM5ZDM1MyIvPgogICAgICA8L2c+CiAgICAgIDxnPgogICAgICAgIDx0aXRsZT4wNCBOb3YgMjAyNiDCtyA4MjQuNEsgdG90YWwgdG9rZW5zPC90aXRsZT4KICAgICAgICA8cmVjdCB4PSI3MDkiIHk9IjMyMSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0iIzBlNDQyOSIvPgogICAgICA8L2c+CiAgICAgIDxnPgogICAgICAgIDx0aXRsZT4wNSBOb3YgMjAyNiDCtyAyMi41Mk0gdG90YWwgdG9rZW5zPC90aXRsZT4KICAgICAgICA8cmVjdCB4PSI3ODAiIHk9IjMzOCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0iIzI2YTY0MSIvPgogICAgICA8L2c+CiAgICAgIDxnPgogICAgICAgIDx0aXRsZT4wNiBOb3YgMjAyNiDCtyAyLjY1TSB0b3RhbCB0b2tlbnM8L3RpdGxlPgogICAgICAgIDxyZWN0IHg9IjcxMyIgeT0iMzUxIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjMDA2ZDMyIi8+CiAgICAgIDwvZz4KCiAgICAgIDxjaXJjbGUgY3g9IjExNDYiIGN5PSIzMTEiIHI9IjEyIiBmaWxsPSIjMzlkMzUzIiBvcGFjaXR5PSIwLjA4IiBmaWx0ZXI9InVybCgjbGl2ZS1zdGF0dXMtZ2xvdykiLz4KICAgICAgPGNpcmNsZSBjeD0iMTE0NiIgY3k9IjMxMSIgcj0iOSIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjMzlkMzUzIiBzdHJva2Utd2lkdGg9IjMiLz4KICAgICAgPGNpcmNsZSBjeD0iMTE0NiIgY3k9IjMxMSIgcj0iMyIgZmlsbD0iIzM5ZDM1MyIgZmlsdGVyPSJ1cmwoI2xpdmUtc3RhdHVzLWdsb3cpIi8+CiAgICA8L2c+CgogICAgPHRleHQgeD0iMzE4IiB5PSI0MjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4Yjk0OWUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIwLjgiPldFRUsgMSDCtyAyNCBPQ1QgVE8gMzAgT0NUPC90ZXh0PgogICAgPHRleHQgeD0iNzU2IiB5PSI0MDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4Yjk0OWUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIwLjgiPldFRUsgMiDCtyAzMSBPQ1QgVE8gMDYgTk9WPC90ZXh0PgoKICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDg5NCA0MTEpIj4KICAgICAgPHRleHQgeD0iMCIgeT0iMTQiIGZpbGw9IiM4Yjk0OWUiIGZvbnQtc2l6ZT0iMTIiPkxFU1M8L3RleHQ+CiAgICAgIDxyZWN0IHg9IjQzIiB5PSIxIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHJ4PSIzIiBmaWxsPSIjMTYxYjIyIiBzdHJva2U9IiMzMDM2M2QiLz4KICAgICAgPHJlY3QgeD0iNjQiIHk9IjEiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgcng9IjMiIGZpbGw9IiMwZTQ0MjkiLz4KICAgICAgPHJlY3QgeD0iODUiIHk9IjEiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgcng9IjMiIGZpbGw9IiMwMDZkMzIiLz4KICAgICAgPHJlY3QgeD0iMTA2IiB5PSIxIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHJ4PSIzIiBmaWxsPSIjMjZhNjQxIi8+CiAgICAgIDxyZWN0IHg9IjEyNyIgeT0iMSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0iIzM5ZDM1MyIvPgogICAgICA8dGV4dCB4PSIxNDkiIHk9IjE0IiBmaWxsPSIjOGI5NDllIiBmb250LXNpemU9IjEyIj5NT1JFPC90ZXh0PgogICAgPC9nPgoKICAgIDx0ZXh0IHg9IjUyIiB5PSI0NTQiIGZpbGw9IiM2NTZkNzYiIGZvbnQtc2l6ZT0iMTIiPkFnZ3JlZ2F0ZSB1c2FnZSBhY3Jvc3MgYWxsIENvZGV4IHdvcmtzcGFjZXMgwrcgYWN0aXZpdHkgY2VsbHMgc2hvdyByZWxhdGl2ZSBkYWlseSBjb21wdXRlPC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="476" viewBox="0 0 1200 476" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul's Codex engineering activity over the rolling last two weeks</title>
+  <desc id="desc">Rolling 14-day Codex activity across all workspaces from 24 Oct to 06 Nov 2026: 154.49M total tokens, 96.3 percent input reuse, 5.69M fresh input tokens, 415.9K output tokens, 75 sessions, 1,406 model calls, and 13 active days. The current partial day is included. This graphic refreshes automatically every 12 hours; last sync 06 Nov 2026 16:06 IST.</desc>
+
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.25" fill="#30363d" opacity="0.46"/>
+    </pattern>
+    <filter id="live-status-glow" x="-180%" y="-180%" width="460%" height="460%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4.5" result="blur"/>
+      <feFlood flood-color="#39d353" flood-opacity="0.9" result="glow-color"/>
+      <feComposite in="glow-color" in2="blur" operator="in" result="colored-glow"/>
+      <feMerge>
+        <feMergeNode in="colored-glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="474" rx="24" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="472" rx="23" fill="url(#grid)" opacity="0.42"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', 'Roboto Mono', Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-variant-numeric="tabular-nums">
+    <text x="52" y="50" fill="#8b949e" font-size="15" font-weight="600" letter-spacing="1.7">CODEX / ENGINEERING ACTIVITY</text>
+
+    <g transform="translate(908 27)">
+      <rect width="240" height="38" rx="19" fill="#161b22" stroke="#30363d"/>
+      <circle cx="23" cy="19" r="15" fill="#39d353" opacity="0.07"/>
+      <circle cx="23" cy="19" r="9" fill="#39d353" opacity="0.16" filter="url(#live-status-glow)"/>
+      <circle cx="23" cy="19" r="4.5" fill="#39d353" filter="url(#live-status-glow)"/>
+      <text x="43" y="24" fill="#c9d1d9" font-size="13" font-weight="600" letter-spacing="0.85">AUTO-REFRESH · 12H</text>
+    </g>
+
+    <text x="52" y="112" fill="#f0f6fc" font-size="50" font-weight="700" letter-spacing="-1.6">154.49M</text>
+    <text x="248" y="104" fill="#8b949e" font-size="16" font-weight="600" letter-spacing="1.35">TOTAL TOKENS</text>
+    <text x="52" y="140" fill="#c9d1d9" font-size="14" font-weight="600" letter-spacing="0.7">ROLLING 14 DAYS · 24 OCT TO 06 NOV 2026 · ASIA/KOLKATA</text>
+    <text x="1148" y="100" text-anchor="end" fill="#8b949e" font-size="13">Rolling 14-day window</text>
+    <text x="1148" y="124" text-anchor="end" fill="#8b949e" font-size="13">Current partial day included</text>
+    <text x="1148" y="148" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="600">LAST SYNC · 06 NOV 2026 · 16:06 IST</text>
+
+    <path d="M52 168 H1148" stroke="#21262d"/>
+
+    <g transform="translate(52 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">96.3%</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">INPUT REUSE</text>
+    </g>
+    <path d="M244 184 V232" stroke="#30363d"/>
+    <g transform="translate(278 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">5.69M</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">FRESH INPUT</text>
+    </g>
+    <path d="M470 184 V232" stroke="#30363d"/>
+    <g transform="translate(504 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">415.9K</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">OUTPUT</text>
+    </g>
+    <path d="M686 184 V232" stroke="#30363d"/>
+    <g transform="translate(720 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">75</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">SESSIONS</text>
+    </g>
+    <path d="M866 184 V232" stroke="#30363d"/>
+    <g transform="translate(900 187)">
+      <text y="20" fill="#f0f6fc" font-size="21" font-weight="700">1,406</text>
+      <text y="43" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1">MODEL CALLS</text>
+    </g>
+
+    <g aria-hidden="true" transform="translate(0 8)">
+      <path d="M50 385 C144 396 231 374 318 380 C429 388 522 359 616 367 C723 376 814 345 905 354 C1008 364 1090 339 1146 311" fill="none" stroke="#2f8132" stroke-width="7" stroke-linecap="round"/>
+      <path d="M318 380 C304 357 321 322 309 272" fill="none" stroke="#238636" stroke-width="4" stroke-linecap="round"/>
+      <path d="M756 363 C743 341 760 308 750 256" fill="none" stroke="#238636" stroke-width="4" stroke-linecap="round"/>
+
+      <g stroke="#30363d" stroke-width="2" stroke-linecap="round">
+        <path d="M309 277 H284"/>
+        <path d="M312 294 H337"/>
+        <path d="M308 311 H283"/>
+        <path d="M311 328 H336"/>
+        <path d="M310 345 H285"/>
+        <path d="M314 362 H339"/>
+        <path d="M317 377 H292"/>
+        <path d="M750 261 H725"/>
+        <path d="M753 278 H778"/>
+        <path d="M749 295 H724"/>
+        <path d="M752 312 H777"/>
+        <path d="M752 329 H727"/>
+        <path d="M755 346 H780"/>
+        <path d="M756 359 H731"/>
+      </g>
+
+      <g>
+        <title>24 Oct 2026 · 0 total tokens</title>
+        <rect x="266" y="269" width="18" height="18" rx="4" fill="#161b22" stroke="#30363d"/>
+      </g>
+      <g>
+        <title>25 Oct 2026 · 1.31M total tokens</title>
+        <rect x="337" y="286" width="18" height="18" rx="4" fill="#006d32"/>
+      </g>
+      <g>
+        <title>26 Oct 2026 · 1.25M total tokens</title>
+        <rect x="265" y="303" width="18" height="18" rx="4" fill="#006d32"/>
+      </g>
+      <g>
+        <title>27 Oct 2026 · 531.6K total tokens</title>
+        <rect x="336" y="320" width="18" height="18" rx="4" fill="#0e4429"/>
+      </g>
+      <g>
+        <title>28 Oct 2026 · 2.31M total tokens</title>
+        <rect x="267" y="337" width="18" height="18" rx="4" fill="#006d32"/>
+      </g>
+      <g>
+        <title>29 Oct 2026 · 1.16M total tokens</title>
+        <rect x="339" y="354" width="18" height="18" rx="4" fill="#0e4429"/>
+      </g>
+      <g>
+        <title>30 Oct 2026 · 17.08M total tokens</title>
+        <rect x="274" y="369" width="18" height="18" rx="4" fill="#26a641"/>
+      </g>
+      <g>
+        <title>31 Oct 2026 · 59.42M total tokens</title>
+        <rect x="707" y="253" width="18" height="18" rx="4" fill="#39d353"/>
+      </g>
+      <g>
+        <title>01 Nov 2026 · 16.4M total tokens</title>
+        <rect x="778" y="270" width="18" height="18" rx="4" fill="#26a641"/>
+      </g>
+      <g>
+        <title>02 Nov 2026 · 1.02M total tokens</title>
+        <rect x="706" y="287" width="18" height="18" rx="4" fill="#0e4429"/>
+      </g>
+      <g>
+        <title>03 Nov 2026 · 28.02M total tokens</title>
+        <rect x="777" y="304" width="18" height="18" rx="4" fill="#39d353"/>
+      </g>
+      <g>
+        <title>04 Nov 2026 · 824.4K total tokens</title>
+        <rect x="709" y="321" width="18" height="18" rx="4" fill="#0e4429"/>
+      </g>
+      <g>
+        <title>05 Nov 2026 · 22.52M total tokens</title>
+        <rect x="780" y="338" width="18" height="18" rx="4" fill="#26a641"/>
+      </g>
+      <g>
+        <title>06 Nov 2026 · 2.65M total tokens</title>
+        <rect x="713" y="351" width="18" height="18" rx="4" fill="#006d32"/>
+      </g>
+
+      <circle cx="1146" cy="311" r="12" fill="#39d353" opacity="0.08" filter="url(#live-status-glow)"/>
+      <circle cx="1146" cy="311" r="9" fill="#0d1117" stroke="#39d353" stroke-width="3"/>
+      <circle cx="1146" cy="311" r="3" fill="#39d353" filter="url(#live-status-glow)"/>
+    </g>
+
+    <text x="318" y="424" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="0.8">WEEK 1 · 24 OCT TO 30 OCT</text>
+    <text x="756" y="409" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="0.8">WEEK 2 · 31 OCT TO 06 NOV</text>
+
+    <g transform="translate(894 411)">
+      <text x="0" y="14" fill="#8b949e" font-size="12">LESS</text>
+      <rect x="43" y="1" width="14" height="14" rx="3" fill="#161b22" stroke="#30363d"/>
+      <rect x="64" y="1" width="14" height="14" rx="3" fill="#0e4429"/>
+      <rect x="85" y="1" width="14" height="14" rx="3" fill="#006d32"/>
+      <rect x="106" y="1" width="14" height="14" rx="3" fill="#26a641"/>
+      <rect x="127" y="1" width="14" height="14" rx="3" fill="#39d353"/>
+      <text x="149" y="14" fill="#8b949e" font-size="12">MORE</text>
+    </g>
+
+    <text x="52" y="454" fill="#656d76" font-size="12">Aggregate usage across all Codex workspaces · activity cells show relative daily compute</text>
+  </g>
+</svg>
